@@ -1,15 +1,11 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week - 5
 
 # Homework 
-```Ödev```
-
+- Reduce ile isimlerin baş harfine göre gruplandırma
+- Yaşadıkları şehirlere göre gruplandırma 
 
 ## Homework Description
-
-```Ödev Açıklaması ```
-
+Derste kullanılan veriler ile ödev tamamlandı. Buna ek olarak mockaroo.com sitesinden oluşturulan veriler ile ekstradan örnekler yapıldı. JS Reduce kullanımı pekiştirildi.
 
 ## Author
-
-```Ödevi yapan```
+Adylsha Yumayev
